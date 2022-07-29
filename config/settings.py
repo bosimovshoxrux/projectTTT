@@ -25,7 +25,7 @@ SECRET_KEY = 'uj(&puzk=q@8@3d5g3q*c*j-shc@u4h83_7l1xkh89yiy83u)#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
